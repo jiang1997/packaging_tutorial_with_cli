@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        example_cli=example_package.cli:cli
+    
